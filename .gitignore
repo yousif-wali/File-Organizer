@@ -1,3 +1,4 @@
 .DS_Store
-file_organizer
 file_organizer.o
+*.pdb
+*.obj
